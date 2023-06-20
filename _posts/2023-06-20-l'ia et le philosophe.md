@@ -7,17 +7,17 @@ J'ai demandé à [ChatGPT](https://chat.openai.com/) s'iel pouvait me résumer l
 
 ## Sommaire
 
-[- Jean-Paul Sartre](#jean-paul-sartre)
+- [Jean-Paul Sartre](#jean-paul-sartre)
 
-[- Simone de Beauvoir](#simone-de-beauvoir)
+- [Simone de Beauvoir](#simone-de-beauvoir)
 
-[- Albert Camus](#albert-camus)
+- [Albert Camus](#albert-camus)
 
-[- Alain](#alain)
+- [Alain](#alain)
 
-[- Henri Bergson](#henri-bergson)
+- [Henri Bergson](#henri-bergson)
 
-[- René Girard](#rené-girard)
+- [René Girard](#rené-girard)
 
 
 ### Jean-Paul Sartre
