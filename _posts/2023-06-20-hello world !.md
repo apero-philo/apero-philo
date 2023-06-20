@@ -1,7 +1,7 @@
 ---
 title: Hello World !
 ---
-Bienvenue sur le premier article du site web de l'Apéro Philo du [SEW(https://www.sew-morlaix.com)], le nouveau lieu culturel à Morlaix, en partenariat avec l['Annexe de la librairie Dialogues à Morlaix](https://www.dialoguesmorlaix.com/)
+Bienvenue sur le premier article du site web de l'Apéro Philo du [SEW](https://www.sew-morlaix.com), le nouveau lieu culturel à Morlaix, en partenariat avec l['Annexe de la librairie Dialogues à Morlaix](https://www.dialoguesmorlaix.com/)
 
 
 J'ai pensé que c'était le moment pour republier ces quelques textes, traduits courant 2017 depuis [gohighbrow.com/contemporary-philosophy](https://gohighbrow.com/contemporary-philosophy/).
