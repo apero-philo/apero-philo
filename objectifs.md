@@ -5,7 +5,7 @@ title: Objectifs
 
 Nous souhaitons stimuler la pensée critique chez nos membres en examinant de manière approfondie les  différentes dimensions des progrès techniques. Nous cherchons à développer  une approche philosophique qui englobe les aspects éthiques, sociétaux, environnementaux et culturels liés à ces avancées.
 
-##2. Promouvoir le dialogue intergénérationnel
+## 2. Promouvoir le dialogue intergénérationnel
 
 Notre club offre une occasion unique aux jeunes actifs et aux nouveaux retraités de partager leurs perspectives et expériences. Nous encourageons le dialogue 
 intergénérationnel afin de favoriser un enrichissement mutuel et de créer 
