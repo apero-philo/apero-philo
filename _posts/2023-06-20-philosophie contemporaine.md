@@ -7,16 +7,15 @@ Bienvenue sur le premier article du site web de l'apéro-philo du [SEW](https://
 J'ai pensé que c'était le moment pour republier ces quelques textes, traduits courant 2017 depuis [gohighbrow.com/contemporary-philosophy](https://gohighbrow.com/contemporary-philosophy/).
 
 ## Sommaire
+- [Histoire](#Histoire)
 
-[1. Histoire](#Histoire)
+- [Erich Fromm](#erich-fromm)
 
-[2. Erich Fromm](#erich-fromm)
+- [Arthur Schopenhauer](#arthur-schopenhauer)
 
-[3. Arthur Schopenhauer](#arthur-schopenhauer)
+- [Friedrich Nietzsche](#friedrich-nietzsche)
 
-[4. Friedrich Nietzsche](#friedrich-nietzsche)
-
-[5. Sigmund Freud](#sigmund-freud)
+- [Sigmund Freud](#sigmund-freud)
 
 ### Histoire
 
