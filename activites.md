@@ -1,8 +1,6 @@
 ---
 title: Activités
 ---
-# Activités
-
 ## Séances de discussion et de débat
 
 Nous organisons régulièrement des séances de discussion et de débat sur des thèmes spécifiques liés aux progrès techniques. Ces séances sont animées par des modérateurs bénévoles et offrent un espace sûr et ouvert où les membres peuvent exprimer leurs idées, poser des questions et confronter différentes 
