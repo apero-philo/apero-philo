@@ -1,7 +1,7 @@
 ---
 title: Contact
 ---
-L'équipe des apéros-philo est actuellement composée de 2 membres.
+L'équipe est actuellement composée de 2 membres.
 
 Pour nous contacter, envoyez un mail à [contact@apero-philo.eu](mailto:contact@apero-philo.eu) ou utilisez le formulaire de contact ci dessous :
 
