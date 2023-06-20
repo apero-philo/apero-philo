@@ -1,6 +1,6 @@
 ---
 title: Contact
 ---
-L'Échappée Belle est actuellement composée de 5 membres.
+L'équipe des apéros-philo est actuellement composée de 2 membres.
 
-Pour nous contacter : [coucou@lechappeebelle.team](mailto:coucou@lechappeebelle.team)
+Pour nous contacter : [contact@apero-philo.eu](mailto:contact@apero-philo.eu)
