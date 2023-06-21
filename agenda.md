@@ -13,4 +13,4 @@ Le vendredi 8 septembre 2023, de 17h à 18h30
 
 ### Invités
 
-- Baptiste Jamin, Co-fondateur et CEO @ [Crisp](https://crisp.chat) et [Mirage](https://mirage-ai.com)
+- [Baptiste Jamin](https://jam.in), Co-fondateur et CEO @ [Crisp](https://crisp.chat) et [Mirage](https://mirage-ai.com)
