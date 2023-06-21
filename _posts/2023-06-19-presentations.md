@@ -1,7 +1,7 @@
 ---
 title: Présentations
 ---
-L'apéro du SEW est organisé en partenariat avec Oriane, de [l'annexe de la Librairie Dialogues de Morlaix](https://www.dialoguesmorlaix.com/) et né de la volonté de deux apprentis philosophes :
+L'apéro-philo du [SEW](https://sew-morlaix.com) est organisé en partenariat avec Oriane, de [l'annexe de la Librairie Dialogues de Morlaix](https://www.dialoguesmorlaix.com/) et né de la volonté de deux apprentis philosophes :
 
 - Thibaud Bouliou, 29 ans, Charpentier
 
