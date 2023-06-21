@@ -5,7 +5,7 @@ L'apéro-philo du [SEW](https://sew-morlaix.com) est organisé en partenariat av
 
 - Thibaud Bouliou, 29 ans, Charpentier
 
-Après avoir entamé des études d'architecture, d'histoire de l'art et de droit, Thibaud s'est finalement décidé à travailler dans le bâtiment. Après un premier poste dans une entreprise de construction de maisons individuelles à ossature bois, il occupe aujourd'hui un poste de charpentier. Quand il n'est pas sur un chantier, il est généralement sur son kayak.
+Après avoir entamé des études d'architecture, d'histoire de l'art et de droit, Thibaud s'est finalement décidé à travailler dans le bâtiment. Après un premier poste dans une entreprise de construction de maisons individuelles à ossature bois, il occupe aujourd'hui un poste de charpentier. Quand il n'est pas sur un chantier, il est bien souvent sur son kayak.
 
 - Mathieu Mescam, 29 ans, Travailleur indépendant
 
