@@ -1,9 +1,9 @@
 ---
 title: Accueil
 ---
-# L'apéro-philo de [Dialogues au SEW](https://m.facebook.com/annexedialoguesmorlaixsew)
+# L'apéro-philo de [Dialogues au SEW](https://facebook.com/annexedialoguesmorlaixsew)
 
-L'apéro-philo de [Dialogues au SEW](https://m.facebook.com/annexedialoguesmorlaixsew)
+L'apéro-philo de [Dialogues au SEW](https://facebook.com/annexedialoguesmorlaixsew)
 est un espace de réflexion et de débat destiné à explorer de manière critique différents thèmes d'actualité, et en particulier le _progrès technique_. Il vise à offrir une plateforme où étudiants, actifs et retraités peuvent se réunir, échanger des idées et approfondir leur compréhension des implications éthiques, sociales et philosophiques des avancées technologiques contemporaines et d'autres thèmes d'actualité.
 
 _**Le premier apéro-philo aura lieu le [8 septembre 2023](/agenda.html), il reste encore 10 places disponibles, pensez à vous inscrire sans tarder !**_
