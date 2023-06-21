@@ -14,3 +14,5 @@ Le vendredi 8 septembre 2023, de 17h à 18h30
 ### Invités
 
 - [Baptiste Jamin](https://jam.in), Co-fondateur et CEO @ [Crisp](https://crisp.chat) et [Mirage](https://mirage-ai.com)
+
+Baptiste est diplômé de l'IUT de Lannion, ancien élève de [l'École 42](https://42.fr) et cofondateur avec [Valerian Saliouhttps://valeriansaliou.name) de [Crisp](https://crisp.chat) un logiciel spécialisé dans la relation client et de [Mirage](https://mirage-ai.com), une interface de programmation qui donne accès à des outils avancés à base d'intelligence artificielle.
