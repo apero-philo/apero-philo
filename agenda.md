@@ -1,7 +1,7 @@
 ---
 title: Agenda
 ---
-## Saison 01 - Episode #00
+## Episode #00
 
 ### Où et Quand ?
 
