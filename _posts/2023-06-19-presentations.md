@@ -9,4 +9,4 @@ Après avoir entamé des études d'architecture, d'histoire de l'art et de droit
 
 - Mathieu Mescam, 29 ans, Travailleur indépendant
 
-Mathieu est diplômé de l'IUT de Lannion, où il a entamé des études en Réseaux informatiques et Télécom. Après une première expérience professionnelle dans un grand groupe, il a lancé un service de conciergerie Airbnb. Il a par la suite occupé différents postes d'intérimaire avant de s'installer à son compte en tant que Développeur Web. Il se rêve écrivain et se veux nostalgique du futur.
+Mathieu est diplômé de l'IUT de Lannion, où il a entamé des études en Réseaux et Télécom. Après une courte expérience professionnelle dans un grand groupe, il a lancé un service de conciergerie Airbnb. Il a par la suite occupé différents postes d'intérimaire avant de s'installer à son compte en tant que Développeur Web. Il se rêve écrivain et se veux nostalgique du futur.
