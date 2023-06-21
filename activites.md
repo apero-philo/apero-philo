@@ -33,7 +33,7 @@ Nous souhaitons stimuler la pensée critique chez nos membres en examinant de ma
 
 ## Promouvoir le dialogue intergénérationnel
 
-L'apéro-débat offre une occasion unique aux jeunes actifs et aux nouveaux retraités de partager leurs perspectives et expériences. Nous encourageons le dialogue 
+L'apéro-débat offre une occasion unique aux personnes de tous horizons de partager leurs perspectives et leurs expériences. Nous encourageons le dialogue 
 intergénérationnel afin de favoriser un enrichissement mutuel et de créer 
 des liens solides entre les différentes générations.
 
