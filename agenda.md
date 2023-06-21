@@ -4,6 +4,7 @@ title: Agenda
 ## Episode #00
 
 Rejoignez-nous pour cette première conférence ! L'inscription se fait par mail à [contact@apero-philo.eu](mailto:contact@apero-philo.eu?subject=Inscription apéro-philo du SEW) ou via le [formulaire de contact](/)
+
 ### Où et Quand ?
 
 - Au [SEW](https://www.sew-morlaix.com), 39 ter Quai de Léon, 29600 Morlaix, France
@@ -11,7 +12,7 @@ Rejoignez-nous pour cette première conférence ! L'inscription se fait par mail
 
 <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-3.8360711932182316%2C48.58248248423255%2C-3.8332816958427434%2C48.58387181383516&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=19/48.58318/-3.83468">Afficher une carte plus grande</a></small>
 
-### Invités
+### Invité
 
 - [Baptiste Jamin](https://jam.in), Co-Fondateur & CEO chez [Crisp](https://crisp.chat)
 
