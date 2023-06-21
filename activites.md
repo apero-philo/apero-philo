@@ -43,4 +43,4 @@ Nous nous concentrons sur les  questions actuelles liées aux progrès technique
 
 ## Favoriser une approche multidisciplinaire
 
-Nous croyons en l'importance d'une approche multidisciplinaire pour comprendre les progrès techniques. Notre club invite des experts de divers domaines tels que la philosophie, l'éthique, la sociologie, les sciences politiques, les sciences de l'environnement et les sciences technologiques pour partager leurs connaissances et perspectives.
+Nous croyons en l'importance d'une approche multidisciplinaire pour comprendre les progrès techniques. Nous invitons des experts de divers domaines tels que la philosophie, l'éthique, la sociologie, les sciences politiques, les sciences de l'environnement et les sciences technologiques pour partager leurs connaissances et perspectives.
