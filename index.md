@@ -5,7 +5,7 @@ title: Accueil
 
 L'apéro-philo du [SEW](https://www.sew-morlaix.com) est un espace de réflexion et de débat destiné à explorer de manière critique différents thèmes d'actualité, et en particulier le _progrès technique_. Il vise à offrir une plateforme où étudiants, actifs et retraités peuvent se réunir, échanger des idées et approfondir leur compréhension des implications éthiques, sociales et philosophiques des avancées technologiques contemporaines et d'autres thèmes d'actualité.
 
-_**Le premier apéro-philo aura lieu [début septembre](/agenda.html), restez à l'affût !**_
+_**Le premier apéro-philo aura lieu le [8 septembre 2023](/agenda.html), il reste encore 10 places disponibles, pensez à vous inscrire sans tarder !**_
 
 Rejoignez-nous ! L'inscription se fait par mail à [contact@apero-philo.eu](mailto:contact@apero-philo.eu?subject=Inscription apéro-philo du SEW) ou via le formulaire de contact ci dessous.
 
