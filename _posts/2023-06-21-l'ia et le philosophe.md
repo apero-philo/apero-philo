@@ -1,7 +1,7 @@
 ---
 title: L'IA et le Philosophe
 ---
-Dans le but de me préparer à la tenue du premier apéro-philo du [SEW](https://www.sew-morlaix.com), le nouveau lieu culturel à Morlaix, en partenariat avec l['Annexe de la librairie Dialogues à Morlaix](https://www.dialoguesmorlaix.com/), qui aura sûrement lieu ce [8 septembre 2023](/agenda.html), j'ai demandé à [ChatGPT](https://chat.openai.com/) si c'était possible de me résumer la biographie de quelques philosophes qui me sont apparus à un moment ou un autre.
+Dans le but de me préparer à la tenue du premier apéro-philo du [SEW](https://www.sew-morlaix.com), le nouveau lieu culturel à Morlaix, en partenariat avec l['Annexe de la librairie Dialogues à Morlaix](https://www.dialoguesmorlaix.com/), qui aura sûrement lieu ce [8 septembre 2023](/agenda.html), j'ai demandé à [ChatGPT](https://chat.openai.com/) si c'était possible de me résumer la biographie de quelques philosophes qui me sont apparu à un moment ou un autre.
 
 ## Sommaire
 
