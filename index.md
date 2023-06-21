@@ -8,7 +8,7 @@ L'apéro-philo du [SEW](https://www.sew-morlaix.com)
 
 **Le premier apéro-philo aura lieu au mois de septembre, restez à l'affût !**
 
-Rejoignez-nous ! L'inscription se fait par mail à [contact@apero-philo.eu](mailto:contact@apero-philo.eu?subject=Inscription apéro-philo du SEW) ou via le formulaire de contact ci dessous .
+Rejoignez-nous ! L'inscription se fait par mail à [contact@apero-philo.eu](mailto:contact@apero-philo.eu?subject=Inscription apéro-philo du SEW) ou via le formulaire de contact ci dessous.
 
 
 
