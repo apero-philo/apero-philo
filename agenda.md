@@ -3,6 +3,7 @@ title: Agenda
 ---
 ## Episode #00
 
+Rejoignez-nous pour cette première conférence ! L'inscription se fait par mail à [contact@apero-philo.eu](mailto:contact@apero-philo.eu?subject=Inscription apéro-philo du SEW) ou via le [formulaire de contact](/)
 ### Où et Quand ?
 
 - Au [SEW](https://www.sew-morlaix.com), 39 ter Quai de Léon, 29600 Morlaix, France
