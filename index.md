@@ -1,5 +1,5 @@
 ---
-title: L'apéro-philo du [SEW](https://www.sew-morlaix.com)
+title: Accueil
 ---
 # L'apéro-philo du [SEW](https://www.sew-morlaix.com)
 
