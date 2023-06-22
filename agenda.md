@@ -3,7 +3,7 @@ title: Agenda
 ---
 ## Episode #00
 
-Rejoignez-nous pour ce premier événement ! L'inscription se fait par mail à [contact@apero-philo.eu](mailto:contact@apero-philo.eu?subject=Inscription à l'apéro-philo de Dialogues au SEW) ou via le [formulaire de contact](/)
+Rejoignez-nous ! L'inscription se fait par mail à [contact@apero-philo.eu](mailto:contact@apero-philo.eu?subject=Inscription à l'apéro-philo de Dialogues au SEW) ou via le [formulaire de contact](/)
 
 ### Où, quand et combien ça coûte ?
 
