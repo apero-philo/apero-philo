@@ -29,7 +29,7 @@ société.
 
 ### Lectures et partage de ressources
 
-Nous encourageons nos membres à partager des articles, des essais, des livres et d'autres ressources pertinents pour enrichir notre compréhension des progrès techniques. Nous mettons également en place une bibliothèque virtuelle pour faciliter l'accès à ces ressources.
+Nous encourageons nos membres à partager des articles, des essais, des livres et d'autres ressources pertinentes pour enrichir notre compréhension des progrès techniques. Nous mettons également en place une bibliothèque virtuelle pour faciliter l'accès à ces ressources.
 
 ### Projets collaboratifs
 
