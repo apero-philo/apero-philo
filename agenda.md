@@ -1,7 +1,7 @@
 ---
 title: Agenda
 ---
-## Episode #00
+## Episode #00 : Les intelligences artificielles vont-elles remplacer les humains ?
 
 Rejoignez-nous ! L'inscription se fait par mail à [contact@apero-philo.eu](mailto:contact@apero-philo.eu?subject=Inscription à l'apéro-philo de Dialogues au SEW) ou via le [formulaire de contact](/)
 
