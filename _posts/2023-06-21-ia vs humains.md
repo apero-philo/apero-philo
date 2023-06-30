@@ -1,9 +1,7 @@
 ---
-title: IA vs HUMAINS 
+title: Les intelligences artificielles vont-elles remplacer les humains ?
 ---
-Dans le but de me préparer à la tenue du premier apéro-philo de [Dialogues au SEW](https://facebook.com/annexedialoguesmorlaixsew) qui aura lieu ce [8 septembre 2023](/agenda.html), j'ai demandé à [ChatGPT](https://chat.openai.com/) si les intelligences artificielles (IA) allaient remplacer les humains.
-
-## Les intelligences artificielles vont-elles remplacer les humains ?
+> Dans le but de me préparer à la tenue du premier apéro-philo de [Dialogues au SEW](https://facebook.com/annexedialoguesmorlaixsew) qui aura lieu ce [8 septembre 2023](/agenda.html), j'ai demandé à [ChatGPT](https://chat.openai.com/) si les intelligences artificielles (IA) allaient remplacer les humains.
 
 La question de savoir si les intelligences artificielles (IA) vont 
 remplacer les humains est un sujet de débat et de spéculations. Il n'y a 
