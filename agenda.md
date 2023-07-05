@@ -5,8 +5,6 @@ title: Agenda
 
 Rejoignez-nous ! L'inscription se fait par mail à [contact@apero-philo.eu](mailto:contact@apero-philo.eu?subject=Inscription à l'apéro-philo de Dialogues au SEW) ou via le [formulaire de contact](/). 
 
-Il reste encore 8 places !
-
 ### Où, quand et combien ça coûte ?
 
 - Au [SEW](https://www.sew-morlaix.com), 39 ter Quai de Léon, 29600 Morlaix, France
