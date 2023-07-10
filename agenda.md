@@ -3,11 +3,11 @@ title: Agenda
 ---
 ## Episode #00 : Les intelligences artificielles vont-elles remplacer les humains ?
 
-Rejoignez-nous ! L'inscription se fait par mail à [contact@apero-philo.eu](mailto:contact@apero-philo.eu?subject=Inscription à l'apéro-philo de Dialogues au SEW) ou via le [formulaire de contact](/). 
+Rejoignez-nous ! L'inscription se fait par mail à [contact@apero-philo.eu](mailto:manu@dialoguesmorlaix.com?subject=Inscription à l'apéro-philo de Dialogues au SEW) ou via le [formulaire de contact](/). 
 
 ### Où, quand et combien ça coûte ?
 
-- Au [SEW](https://www.sew-morlaix.com), 39 ter Quai de Léon, 29600 Morlaix, France
+- À [l'annexe de Dialogues au SEW](https://www.facebook.com/annexedialoguesmorlaixsew), 39 ter Quai de Léon, 29600 Morlaix, France
 - Le vendredi 8 septembre 2023, de 17h à 18h30
 - Une participation aux frais de 5€ est demandée à tous les participants
 
@@ -17,4 +17,4 @@ Rejoignez-nous ! L'inscription se fait par mail à [contact@apero-philo.eu](mail
 
 - [Baptiste Jamin](https://jam.in), Co-Fondateur & CEO chez [Crisp](https://crisp.chat)
 
-Baptiste est diplômé de [l'IUT de Lannion](https://iut-lannion.univ-rennes.fr), ancien élève de [l'École 42](https://42.fr) et Co-Fondateur avec [Valerian Saliou](https://valeriansaliou.name) de [Crisp](https://crisp.chat), un logiciel spécialisé dans la relation client, et de [Mirage](https://mirage-ai.com), une interface de programmation donnant accès à des outils d'intelligence artificielle.
+Baptiste est diplômé de [l'IUT de Lannion](https://iut-lannion.univ-rennes.fr), ancien élève de [l'École 42](https://42.fr) et Co-Fondateur avec [Valerian Saliou](https://valeriansaliou.name) de [Crisp](https://crisp.chat), un logiciel spécialisé dans la relation client, et de [Mirage](https://mirage-ai.com), une interface de programmation donnant accès à des outils d'intelligence artificielle. 
