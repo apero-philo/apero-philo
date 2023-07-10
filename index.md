@@ -8,7 +8,7 @@ est un espace de réflexion et de débat destiné à explorer de manière critiq
 
 _**Le premier apéro-philo aura lieu le [8 septembre 2023](/agenda.html), il reste encore 8 places disponibles, pensez à vous inscrire sans tarder !**_
 
-Rejoignez-nous ! L'inscription se fait par mail à [contact@apero-philo.eu](mailto:contact@apero-philo.eu?subject=Inscription apéro-philo de Dialogues au SEW) ou via le formulaire de contact ci dessous.
+Rejoignez-nous ! L'inscription se fait par mail à [contact@apero-philo.eu](mailto:mailto:manu@dialoguesmorlaix.com?subject=Inscription à l'apéro-philo de Dialogues au SEW) ou via le formulaire de contact ci dessous :
 
 <iframe title="Contact Form" src="https://plugins.crisp.chat/urn:crisp.im:contact-form:0/contact/005ca9b2-e351-44ef-8795-013ec11de595" referrerpolicy="origin" sandbox="allow-forms allow-popups allow-scripts allow-same-origin" width="100%" height="600px" frameborder="0"></iframe>
 
@@ -56,4 +56,4 @@ Nous nous concentrons sur les  questions actuelles liées aux progrès technique
 
 ### Favoriser une approche multidisciplinaire
 
-Nous croyons en l'importance d'une approche multidisciplinaire pour comprendre les progrès techniques. Nous invitons des experts de divers domaines tels que la philosophie, l'éthique, la sociologie, les sciences politiques, les sciences de l'environnement et les sciences technologiques pour partager leurs connaissances et perspectives.
+Nous croyons en l'importance d'une approche multidisciplinaire pour comprendre les progrès techniques. Nous invitons des experts de divers domaines tels que la philosophie, l'éthique, la sociologie, les sciences politiques, les sciences de l'environnement et les sciences technologiques pour partager leurs connaissances et perspectives. 
